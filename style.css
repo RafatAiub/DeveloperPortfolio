@@ -1,0 +1,113 @@
+body{
+    margin:0px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+section{
+    height: 400px;
+    padding-bottom: 88px;
+    
+}
+.border_text{
+    font-size: 50px ;
+    border-left: 4px solid red;
+    padding-right: 5px;
+    margin-right: 5px;
+    /* height: 105px; */
+    
+}
+.text_color{
+    color: coral;
+}
+.half-width{
+    width: 30%; 
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.half-width img{
+    border-radius: 20px;
+    padding-left: 100px;
+    width: 60%;
+    height: auto;
+}
+.one_third_width{
+    text-align: justify;
+    text-justify: inter-word;
+    width: 20%; 
+    margin-left: 2%;
+    padding-left: 2%;
+    padding: 1%;
+
+    float: left;
+    border-radius: 15px;
+}
+.anchor_button{
+    text-decoration: none;
+    background: linear-gradient(45deg ,red,tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: azure;
+    font-weight: 700;    
+}
+.top_view{
+    margin-top: 5px;
+}
+.mission2022{
+   margin-left: 100px;
+    
+}
+.image_size{
+    padding-top: 30px;
+    height: auto;
+    width: 40%;
+}
+
+.develop_without_limit{
+    background-image: url("image/shape-1.png");
+    background-repeat:no-repeat ;
+    background-size: 200px;
+    background-position-x: 150px;
+    background-position-y: 155px;
+    
+    
+}
+
+.community{
+    background-image: url("image/shape-1.png");
+    background-repeat:no-repeat ;
+    background-size: 200px;
+    background-position-x: 1160px;
+    background-position-y: 225px;
+}
+.emp_of_the_year{
+   margin-left: 120px; 
+
+   background-image: url("image/shape-6.png");
+   background-repeat:no-repeat ;
+   background-size: 200px;
+   background-position-x: 1011px;
+   background-position-y: 225px;
+}
+
+.footer {
+    font-family: cursive;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+
+ .emp_view{
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
